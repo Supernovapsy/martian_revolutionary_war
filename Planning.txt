@@ -1,0 +1,34 @@
+Martian Revolutionary War
+
+Goal: Reduce the other side's shield rings to 0, which will cause its surrender.
+
+
+two bases: Earth and Mars
+Defence Structures
+Resources
+Random interim peace periods where each side has a chance to prepare
+Earth gets bonus resources due to its size, but Earth always chooses its upgrades earlier than Mars.
+However, Earth's reinforcements arrive one turn late.
+Random Reinforcements on both sides
+Reinforcements after destruction of one ring of defence
+There is a flagship (i.e. player-controlled ship)
+You can use the resources to buy structures that produce ships, or save the resources to gather interest, or to buy special missiles
+Within each ring, there is a stack of supplies that is a fraction of that side's treasury. When that ring is destroyed, the other side gets hold of that money.
+Random asteroids that roam the space between the two sides
+
+
+
+
+
+class Base (including shield rings)
+class Ship (kamikaze, fighter, heavy)
+class Map (which handles not only drawing the map, but also drawing of all ships and collision detection)
+class Bullets (normal, heavy, nuclear, self-directing)
+function interim
+function resupply
+
+2D program
+importing pictures
+drawing shapes
+collision
+Writing characters

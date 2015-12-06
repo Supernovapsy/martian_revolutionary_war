@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1366314757 source:c:\users\wen\documents\dropbox\1t2 winter\esc102\design portfolio\martian revolutionary war\martian_revolutionary_war\main.cpp
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<cstddef>
+	<ctime>
+	"Spaceship.h"
+	"Global.h"
+	"Base.h"
+	"Map.h"
+
+1365914365 c:\users\wen\documents\dropbox\1t2 winter\esc102\design portfolio\martian revolutionary war\martian_revolutionary_war\spaceship.h
+	<ctime>
+
+1365914365 c:\users\wen\documents\dropbox\1t2 winter\esc102\design portfolio\martian revolutionary war\martian_revolutionary_war\global.h
+	<string>
+
+1365914365 c:\users\wen\documents\dropbox\1t2 winter\esc102\design portfolio\martian revolutionary war\martian_revolutionary_war\base.h
+	<list>
+	<cmath>
+	"Spaceship.h"
+	"Bullet.h"
+	"Global.h"
+
+1365914365 c:\users\wen\documents\dropbox\1t2 winter\esc102\design portfolio\martian revolutionary war\martian_revolutionary_war\bullet.h
+	"Global.h"
+
+1365914365 c:\users\wen\documents\dropbox\1t2 winter\esc102\design portfolio\martian revolutionary war\martian_revolutionary_war\map.h
+	<vector>
+	"Base.h"
+	"Spaceship.h"
+	"Bullet.h"
+	"Global.h"
+
+1365914365 source:c:\users\wen\documents\dropbox\1t2 winter\esc102\design portfolio\martian revolutionary war\martian_revolutionary_war\bullet.cpp
+	"Bullet.h"
+	<stdexcept>
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+
+1365914365 source:c:\users\wen\documents\dropbox\1t2 winter\esc102\design portfolio\martian revolutionary war\martian_revolutionary_war\global.cpp
+	"Global.h"
+	<cstdlib>
+	<sstream>
+	<cmath>
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+
+1365914365 source:c:\users\wen\documents\dropbox\1t2 winter\esc102\design portfolio\martian revolutionary war\martian_revolutionary_war\map.cpp
+	"Map.h"
+	<cstddef>
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+
+1365914365 source:c:\users\wen\documents\dropbox\1t2 winter\esc102\design portfolio\martian revolutionary war\martian_revolutionary_war\spaceship.cpp
+	"Spaceship.h"
+	<cmath>
+	<stdexcept>
+	<vector>
+	"Global.h"
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+
+1365914365 source:c:\users\wen\documents\dropbox\1t2 winter\esc102\design portfolio\martian revolutionary war\martian_revolutionary_war\base.cpp
+	"Base.h"
+	<stdexcept>
+	<algorithm>
+	<cmath>
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+
